@@ -439,3 +439,5 @@ CONFIG_MI_ERRFLAG_ESD_CHECK_ENABLE=y
 # C3T code for HQ-219022 by jiangyue at 2022/08/22 end
 CONFIG_EROFS_FS=y
 
+# Pseudo filesystems
+CONFIG_TMPFS_XATTR=y
